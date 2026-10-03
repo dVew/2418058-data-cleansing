@@ -1,0 +1,36 @@
+id_lagu,judul,artis,genre,tahun_rilis,tanggal_rilis,durasi,jumlah_putar,popularitas
+1,Shape of You,Ed Sheeran,Pop,2017,2017-01-06,3:53,"3,100,000,000",90
+2,Blinding Lights,THE WEEKND,pop,2019,29/11/2019,3:20,"3,400,000,000",92
+3,Bohemian Rhapsody,Queen,Rock,1975,1975-10-31,5:55,"2,000,000,000",88
+4,Someone Like You,Adele,Pop,2011,24/01/2011,4:45,"1,700,000,000",80
+5,Lose Yourself,Eminem,hip hop,2002,2002-10-28,5:26,"2,100,000,000",85
+6,Hotel California,Eagles,Rock ,1976,08-12-1976,6:30,"1,500,000,000",82
+7,Smells Like Teen Spirit,NIRVANA,Rock,1991,1991-09-10,5:01,"1,800,000,000",83
+8,Billie Jean,Michael Jackson,POP,1983,02/01/1983,4:54,"1,600,000,000",84
+9,Uptown Funk,Mark Ronson,Funk,2014,2014-11-10,4:30,"2,300,000,000",81
+10,Despacito,Luis Fonsi,Latin,2017,12/01/2017,228,"3,000,000,000",78
+11,Believer,Imagine Dragons,Rock,2017,2017-02-01,3:24,"2,300,000,000",
+12,Bad Guy,Billie Eilish,Pop,2019,2019-03-29,3:14,"2,800,000,000",87
+13,Dynamite,BTS,Kpop,2020,21/08/2020,3:19,"1,400,000,000",82
+14,Lathi,Weird Genius,EDM,2020,2020-02-28,3:33,"650,000,000",75
+15,Hati-Hati di Jalan,Tulus,Pop,2022,2022-02-18,250,"520,000,000",74
+16,Kangen,Dewa 19,Rock,1992,1992-03-15,58:20,"410,000,000",70
+17,Yellow,Coldplay,,2000,2000-06-26,4:29,"1,900,000,000",84
+18,Shake It Off,Taylor Swift,Pop,2014,18/08/2014,3:39,"2,000,000,000",86
+19,Just the Way You Are,Bruno Mars,Pop,2010,2010-07-20,3:40,"1,800,000,000",-5
+20,Levitating,Dua Lipa,Pop,2035,2020-03-27,3:23,"2,500,000,000",88
+21,As It Was,Harry Styles,pop,2022,31/03/2022,2:37,"3,300,000,000",91
+22,Umbrella,Rihanna,Pop,2007,2007-03-29,4:36,"1,500,000,000",150
+23,Sunday Morning,Maroon 5,Pop,2004,,4:01,"1,100,000,000",76
+24,In the End,Linkin Park,Rock,2001,09/10/2001,3:36,"1,900,000,000",83
+25,Creep,Radiohead,Rock,1992,21/09/1992,3:58,"1,400,000,000",78
+26,Sephia,Sheila on 7,Pop,1999,31/02/1999,243,"380,000,000",68
+27,Dancing Queen,ABBA,Disco,1976,1976-08-16,3:51,"1,500,000,000",80
+28,Wake Me Up,Avicii,EDM,,2013-06-17,4:07,"1,800,000,000",82
+29,Get Lucky,Daft Punk,Disco,2013,2013-04-19,6:09,"-1,000,000,000",79
+30,Gangnam Style,PSY,K-Pop,2012,2012-07-15,3:39,"95,000,000,000",77
+31,Kill This Love,Blackpink,K-pop,2019,2019-04-04,3:11,"1,000,000,000",81
+32,Someone You Loved,Lewis Capaldi,Pop,2018,2018-11-08,3:02,,85
+33,Separuh Aku,Noah,Pop,2012,2012-05-20,0:00,"300,000,000",
+4,Someone Like You,Adele,Pop,2011,24/01/2011,4:45,"1,700,000,000",80
+10, DESPACITO ,luis fonsi,latin,2017,12/01/2017,228,"3,000,000,000",78
