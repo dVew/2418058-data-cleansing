@@ -27,9 +27,9 @@ Project ini membersihkan (data cleansing) dan memperkaya (data enrichment) datas
 
 ## Teknik yang Dipakai
 
-**Data Cleansing:** standardisasi teks, perbaikan tipe data, penanganan nilai tidak valid, hapus duplikat, deteksi outlier dengan IQR, dan pengisian missing value (median dan nilai dari kolom terkait).
+Data Cleansing: standardisasi teks, perbaikan tipe data, penanganan nilai tidak valid, hapus duplikat, deteksi outlier dengan IQR, dan pengisian missing value (median dan nilai dari kolom terkait).
 
-**Data Enrichment:** menambah negara dan benua artis dari tabel referensi, serta kolom baru seperti dekade, usia lagu, kategori durasi, kategori popularitas, dan asal lagu (lokal atau internasional).
+Data Enrichment: menambah negara dan benua artis dari tabel referensi, serta kolom baru seperti dekade, usia lagu, kategori durasi, kategori popularitas, dan asal lagu (lokal atau internasional).
 
 ## Hasil
 
