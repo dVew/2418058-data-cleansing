@@ -12,9 +12,9 @@ Project ini membersihkan (data cleansing) dan memperkaya (data enrichment) datas
 
 ## File
 
-- `2418058DataCleansing.ipynb`: notebook berisi semua tahapan pengerjaan
-- `dataset_musik_mentah.csv`: data sebelum dibersihkan (35 baris, 9 kolom)
-- `dataset_musik_bersih.csv`: data setelah cleansing dan enrichment (33 baris, 18 kolom)
+- 2418058DataCleansing.ipynb: notebook berisi semua tahapan pengerjaan
+- dataset_musik_mentah.csv: data sebelum dibersihkan (35 baris, 9 kolom)
+- dataset_musik_bersih.csv: data setelah cleansing dan enrichment (33 baris, 18 kolom)
 
 ## Masalah Data yang Ditemukan
 
@@ -46,4 +46,4 @@ Dua missing value yang tersisa ada di kolom tanggal rilis dan sengaja tidak diis
 
 ## Cara Menjalankan
 
-Buka `2418058DataCleansing.ipynb` di Google Colab, lalu klik Runtime, Run all. Data sudah ada di dalam notebook, jadi tidak perlu upload file.
+Buka 2418058DataCleansing.ipynb di Google Colab, lalu klik Runtime, Run all. Data sudah ada di dalam notebook, jadi tidak perlu upload file.
